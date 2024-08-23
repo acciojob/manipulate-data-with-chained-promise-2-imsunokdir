@@ -1,5 +1,5 @@
 function updateArr(arr){
-  document.getElementById("output").textContent = arr.join(" ");
+  document.getElementById("output").textContent = arr.join(",");
 }
 
 function getArray(){
